@@ -1,6 +1,7 @@
 # Hi, I’m Leandro Carvalho (Call me Leo) 👋
 
-## :pushpin: I just deployed a neat-o portfolio website - check out the code for that over at [lndrcrvlh/carvalho-portfolio](https://github.com/lndrcrvlh/carvalho-portfolio) or visit at [carvalho.info](https://carvalho.info)
+## :pushpin: I just deployed a neat-o portfolio website
+### check out the code for that over at [lndrcrvlh/carvalho-portfolio](https://github.com/lndrcrvlh/carvalho-portfolio) or visit at [carvalho.info](https://carvalho.info)
 
 
 - 👀 I’m interested in Webapp Development + hardware restoration/old tech 
