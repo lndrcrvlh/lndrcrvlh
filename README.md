@@ -5,7 +5,7 @@
 
 
 - 👀 I’m interested in Webapp Development + hardware restoration/old tech 
-- 🌱 I'm working on making cool products with React 
+- 🌱 I'm working on making cool products with React - [lndrcrvlh/flashcard-app](https://github.com/lndrcrvlh/flashcard-app) is a simple study tool to quiz users on Japanese characters and more
 - 📫 Send me an email @ lndrcrvlh@gmail.com I'd love to hear from you
 
 [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lndrcrvlh&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
